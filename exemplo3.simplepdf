@@ -1,0 +1,56 @@
+%SPDF-1.0
+1 0 obj
+<< /Type /Catalog
+   /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<< /Type /Pages
+   /Kids [3 0 R]
+   /Count 1
+>>
+endobj
+
+3 0 obj
+<< /Type /Page
+   /Parent 2 0 R
+   /MediaBox [0 0 612 792]
+   /Contents 4 0 R
+>>
+endobj
+
+4 0 obj
+<< /Length 250 >>
+stream
+BT
+/F1 18 Tf
+100 700 Td
+(Relatório de Vendas - Março 2025) Tj
+/F1 12 Tf
+0 -40 Td
+(Produto A: 530 unidades | Valor unitário: 89.90 | Total: 47.647,00 reais) Tj
+0 -20 Td
+(Produto B: 320 unidades | Valor unitário: 129.90 | Total: 41.568,00 reais) Tj
+0 -20 Td
+(Produto C: 280 unidades | Valor unitário: 199.90 | Total: 55.972,00 reais) Tj
+0 -40 Td
+(Total arrecadado: 145.187,00 reais) Tj
+ET
+endstream
+endobj
+
+xref
+0 5
+0000000000 65535 f
+0000000010 00000 n
+0000000075 00000 n
+0000000150 00000 n
+0000000225 00000 n
+trailer
+<< /Size 5
+   /Root 1 0 R
+>>
+startxref
+350
+%%EOF
